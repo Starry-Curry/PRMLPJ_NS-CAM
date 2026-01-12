@@ -1,0 +1,1296 @@
+{
+  "history": [
+    {
+      "speaker": "User",
+      "content": "Ugh, another 5 AM start at the café. At least the morning croissants smell amazing. Luna was being extra cuddly before I left - she knew I was tired.",
+      "timestamp": "2025-09-07T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Good morning! Those early shifts are tough, but you're right about the croissant aroma. How's Luna been lately?",
+      "timestamp": "2025-09-07T09:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "She's been great! Yesterday she knocked over my watercolor palette while I was painting the Seine from my balcony. Had to clean up cadmium red from the floor for an hour.",
+      "timestamp": "2025-09-07T10:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Oh no! But I bet the view from your balcony is worth it. What were you painting exactly?",
+      "timestamp": "2025-09-07T11:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "The sunset over Notre-Dame from my apartment in the 5th arrondissement. I live on Rue de la Montagne Sainte-Geneviève - best view in Paris! The light was perfect until Luna decided to 'help'.",
+      "timestamp": "2025-09-07T12:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That sounds beautiful! The 5th arrondissement has such character. Did you manage to salvage the painting?",
+      "timestamp": "2025-09-07T13:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Sort of. I had to start over this morning before work. Used my Winsor & Newton watercolors - the professional grade ones I bought last month at Magasin Sennelier near the Louvre.",
+      "timestamp": "2025-09-07T14:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Sennelier is legendary! Did you get to finish the new version?",
+      "timestamp": "2025-09-07T15:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Not yet. Had to rush to my shift at Café de Flore. We had a rush of tourists around 10 AM - mostly Americans asking for 'regular coffee' which always makes me smile.",
+      "timestamp": "2025-09-07T16:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Café de Flore in Saint-Germain! That's such an iconic spot. Do you get many regulars?",
+      "timestamp": "2025-09-07T17:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Oh yeah! Monsieur Dubois comes every day at 11:30 for his espresso and lemon tart. He's been coming for 15 years apparently. Today he asked about my paintings - I showed him photos on my phone.",
+      "timestamp": "2025-09-07T18:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's so sweet! What did he think of your work?",
+      "timestamp": "2025-09-07T19:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "He loved the one of Pont Neuf at dawn! Said it reminded him of when he first moved to Paris in 1978. I'm thinking of giving him a small print for his birthday next month.",
+      "timestamp": "2025-09-07T20:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That would be such a thoughtful gift! How long have you been working at Café de Flore?",
+      "timestamp": "2025-09-07T21:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "About 18 months now. Before that I was at a smaller place in Montmartre, but the tips are better here. Plus I can walk to work in 20 minutes from my place.",
+      "timestamp": "2025-09-07T22:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a perfect commute! Do you ever paint during your breaks?",
+      "timestamp": "2025-09-07T23:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Sometimes! I keep a small sketchbook in my apron. Today I sketched the couple sitting by the window - they looked so Parisian with their little dog and baguette.",
+      "timestamp": "2025-09-08T00:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That sounds charming! What breed was the dog?",
+      "timestamp": "2025-09-08T01:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "A French bulldog wearing a tiny beret - I'm not kidding! The owner put it on him. I got a quick sketch but had to get back to making cappuccinos.",
+      "timestamp": "2025-09-08T02:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "A beret-wearing French bulldog - that's peak Paris! I hope you can finish that sketch later. What are your plans for after work?",
+      "timestamp": "2025-09-08T03:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I just got the email - they offered me the software engineering position in London! The salary is £85,000 and they want me to start November 4th. I can't believe this is actually happening.",
+      "timestamp": "2025-09-17T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Congratulations! That's fantastic news. A November 4th start date gives you about six weeks to prepare. Have you thought about your relocation timeline yet?",
+      "timestamp": "2025-09-17T09:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Thanks! I'm honestly overwhelmed. I need to figure out housing first. My budget is around £1,500 per month for rent. Do you think I should look at neighborhoods like Shoreditch or maybe somewhere further out like Wimbledon?",
+      "timestamp": "2025-09-17T09:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Both are good options with different trade-offs. Shoreditch has great tech scene energy but might stretch your budget. Wimbledon offers more space and has the District Line for commuting. What's your priority - location convenience or living space?",
+      "timestamp": "2025-09-17T10:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I think I'd prefer being closer to work initially. The office is near Liverpool Street station, so Shoreditch would be perfect for walking. But I'm worried about my furniture situation - I have a whole apartment full of stuff here in Manchester.",
+      "timestamp": "2025-09-17T10:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a common challenge with relocations. Are you thinking of taking everything with you, storing some items, or selling and starting fresh in London?",
+      "timestamp": "2025-09-17T11:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I've been doing an inventory. My IKEA Malm bed frame and mattress are only 2 years old, but shipping them might cost more than buying new. My solid oak dining table was £800 though - that might be worth keeping. And I have a decent Samsung 55-inch TV.",
+      "timestamp": "2025-09-17T11:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Smart to think about replacement costs versus shipping. For the TV, check if it's compatible with UK broadcasting standards. The oak table sounds like a keeper if you have space for it. What about your sofa and other large items?",
+      "timestamp": "2025-09-17T12:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "The sofa is from DFS, three-seater in gray fabric. It's comfortable but bulky. I'm thinking of selling it along with my coffee table and bookcase. I could probably get £300-400 for the set on Facebook Marketplace. My desk is important though - it's where I do my best coding work.",
+      "timestamp": "2025-09-17T12:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That sounds like a solid plan. Selling bulky items locally makes sense. For your desk, measure it carefully - London flats can have narrow staircases and doorways. What are the dimensions?",
+      "timestamp": "2025-09-17T13:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "It's 160cm wide by 80cm deep. Solid wood, really heavy. My dad helped me get it up here two years ago. I'm dreading moving it again, but it's perfect for my dual monitor setup and has great cable management.",
+      "timestamp": "2025-09-17T13:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a substantial piece. You might want to check if it can be disassembled for the move. For the items you're selling, when are you planning to list them? Timing the sale right before your move could maximize the price.",
+      "timestamp": "2025-09-17T14:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I was thinking of starting listings around October 1st. That gives me a month to sell everything before I need to vacate my current place by October 31st. I'll need to coordinate viewings and pickups. This is going to be stressful!",
+      "timestamp": "2025-09-17T14:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "October 1st sounds like good timing. Make sure to take clear photos and be honest about any wear and tear. For high-value items like your dining table, you might want to get multiple offers. Have you thought about where you'll stay if you sell your bed before moving?",
+      "timestamp": "2025-09-17T15:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Oh wow, I hadn't thought about that! I might need to keep the bed until the last week and sleep on a mattress on the floor. Or maybe stay with my sister in Birmingham for a few days. This is getting complicated.",
+      "timestamp": "2025-09-17T15:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Don't worry, it's manageable with planning. Many people do a phased approach - sell non-essentials first, keep daily necessities until the end. Your sister's place could be a good backup. What about your kitchen items and other smaller belongings?",
+      "timestamp": "2025-09-17T16:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I have a decent set of pots and pans, plus my Nespresso machine that I can't live without! Most of my plates and glasses are from IKEA, so not worth moving. I'll probably donate those to charity. My record collection though - that's coming with me no matter what.",
+      "timestamp": "2025-09-17T16:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "The Nespresso machine is definitely a keeper! For your records, make sure to pack them vertically and protect them well during transport. How many records are we talking about? That could affect your moving costs.",
+      "timestamp": "2025-09-17T17:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "About 200 vinyl records. They're my pride and joy - mostly classic rock and some jazz. I have them organized alphabetically by artist. The collection is probably worth £2,000-3,000, so I'm definitely bringing them. I should probably get insurance for the move.",
+      "timestamp": "2025-09-17T17:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a valuable collection worth protecting. Insurance is a smart idea. For the move itself, are you planning to hire professional movers or rent a van and do it yourself with friends?",
+      "timestamp": "2025-09-17T18:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Just landed in London yesterday. The rain hasn't stopped since I got here. My flat in Camden is tiny but cute. Luna seems stressed from the flight - she's been hiding under the bed and barely touched her food.",
+      "timestamp": "2025-09-27T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Welcome to London! The rain can be relentless, especially in autumn. It's normal for cats to be stressed after travel. Make sure Luna has a quiet space and familiar items. Try warming her food slightly to make it more appealing.",
+      "timestamp": "2025-09-27T10:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Day 3 and it's pouring again. Had to buy an umbrella - my old one broke on the way to the grocery store. Luna still isn't eating properly. She threw up this morning and seems lethargic. I'm getting worried.",
+      "timestamp": "2025-09-28T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's concerning. Vomiting and lethargy in cats shouldn't be ignored. Has she had any water? You might want to contact a local vet. I can help you find one near Camden if you'd like.",
+      "timestamp": "2025-09-28T10:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Yes please! I don't know any vets here. Luna hasn't touched her water bowl all day. She just sleeps and when she moves, she seems weak. I'm really panicking now.",
+      "timestamp": "2025-09-28T12:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "There's a 24-hour veterinary clinic called 'The London Cat Clinic' in Islington, about 2 miles from Camden. Their number is 020 7359 6969. Given Luna's symptoms, I'd recommend calling them immediately.",
+      "timestamp": "2025-09-28T13:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Thank you! I called and they said to bring her in right away. The rain is absolutely torrential - had to wrap Luna in my raincoat to keep her dry. Waiting at the clinic now.",
+      "timestamp": "2025-09-28T14:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "You're doing the right thing. Keep Luna warm and calm. Let me know what the vet says. Sending positive thoughts your way!",
+      "timestamp": "2025-09-28T15:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "The vet says Luna has a bacterial infection, probably from stress weakening her immune system. They gave her antibiotics and fluids. Have to give her medication twice daily for 10 days. Cost me £180 but worth it.",
+      "timestamp": "2025-09-28T17:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "I'm glad you got her treated quickly! Bacterial infections are common after stressful events. Make sure to finish the full course of antibiotics. Keep her warm and try to reduce stress - maybe some quiet time away from the busy Camden streets.",
+      "timestamp": "2025-09-28T18:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Luna seems a bit better today. She ate some wet food and kept it down. Still sleeping a lot but purred when I petted her. The rain finally stopped! Actually saw some blue sky this afternoon.",
+      "timestamp": "2025-09-29T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's wonderful progress! The purring is a great sign. Keep up with the medication schedule. London weather is unpredictable - enjoy the sunshine while it lasts! How are you settling into Camden?",
+      "timestamp": "2025-09-29T10:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Camden Market is amazing - so many food stalls and vintage shops. Found a great coffee place called 'Camden Coffee House' on Parkway. Luna's appetite is almost back to normal. She even played with her feather toy for a few minutes today.",
+      "timestamp": "2025-09-30T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's fantastic news about Luna! Camden Market is indeed special. The coffee culture in London is great - try the flat whites. Sounds like Luna is recovering well. Keep monitoring her energy levels.",
+      "timestamp": "2025-09-30T10:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Week 2 in London. Luna's completely back to her old self - climbing everything, demanding treats, even chattering at pigeons outside the window. Finished her antibiotics yesterday. Still rains most days but I bought proper wellies and a good rain jacket.",
+      "timestamp": "2025-10-04T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Wonderful to hear Luna's fully recovered! Those are all excellent signs. You're becoming a proper Londoner with the wellies and rain gear. How are you finding the pace of city life compared to where you moved from?",
+      "timestamp": "2025-10-04T10:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "It's definitely faster paced but I'm getting used to it. Started exploring more - went to Hampstead Heath last weekend. Luna loves watching the world from our windowsill. The rain doesn't bother me as much now that I'm prepared for it.",
+      "timestamp": "2025-10-05T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Hampstead Heath is beautiful, especially in autumn. It's great that you're adapting well and that Luna has settled in. Cats often enjoy window watching - gives them mental stimulation. You're building a good life there!",
+      "timestamp": "2025-10-05T10:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "One month anniversary in London! Luna's thriving - she's even made friends with the neighbor's cat through the garden fence. I've found my favorite pub (The Dublin Castle), learned the Tube routes, and actually enjoy the cozy rainy days now. What a difference a few weeks make!",
+      "timestamp": "2025-10-27T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Congratulations on your one-month London anniversary! It sounds like both you and Luna have truly settled in. The Dublin Castle is a classic Camden spot. It's amazing how quickly a place can start feeling like home, even with all the rain. Here's to many more months of London adventures!",
+      "timestamp": "2025-10-27T10:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I've decided to start learning Python today! I bought a book called 'Python Crash Course' and installed Python 3.12 on my laptop. Feeling excited but also a bit overwhelmed.",
+      "timestamp": "2025-10-07T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's great! Python is an excellent choice for beginners. 'Python Crash Course' is a solid book. Take it one chapter at a time, and don't hesitate to experiment with the code examples.",
+      "timestamp": "2025-10-07T09:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Thanks! I just wrote my first program - a simple script that prints 'Hello, World!' and then asks for my name and says hello to me. It felt magical when it actually worked!",
+      "timestamp": "2025-10-07T10:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Congratulations on your first program! That's a significant milestone. The interactive nature of programming can be really rewarding.",
+      "timestamp": "2025-10-07T11:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I met someone really interesting at the coffee shop today. Her name is Alice, and we got talking while waiting in line. Turns out she's a huge Jazz fan - she was telling me about her favorite artists like Miles Davis, John Coltrane, and Herbie Hancock.",
+      "timestamp": "2025-10-08T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That sounds like a wonderful encounter! Jazz has such a rich history. Did you exchange contact information? It's always nice to make new friends with shared interests.",
+      "timestamp": "2025-10-08T09:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Yes! We exchanged numbers. She mentioned she's been playing piano for 15 years and even performs at local Jazz clubs sometimes. I'm thinking of asking her to recommend some albums to get into Jazz.",
+      "timestamp": "2025-10-08T10:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's impressive! Having a friend who's passionate about music can open up a whole new world. Starting with album recommendations from someone experienced is a great way to explore a new genre.",
+      "timestamp": "2025-10-08T11:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Back to Python today. I'm learning about variables and data types. It's interesting how Python handles strings, integers, and floats. I created a variable called 'favorite_number' and assigned it the value 7.",
+      "timestamp": "2025-10-09T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Variables are fundamental! Python's dynamic typing makes it beginner-friendly. Once you're comfortable with the basics, you'll find it becomes second nature.",
+      "timestamp": "2025-10-09T09:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I texted Alice asking for Jazz recommendations. She sent back a list of 5 albums: 'Kind of Blue' by Miles Davis, 'A Love Supreme' by John Coltrane, 'Head Hunters' by Herbie Hancock, 'The Shape of Jazz to Come' by Ornette Coleman, and 'Time Out' by Dave Brubeck.",
+      "timestamp": "2025-10-09T10:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a fantastic starter list! Each of those albums is a masterpiece in its own right. 'Kind of Blue' is often recommended as the perfect entry point into Jazz.",
+      "timestamp": "2025-10-09T11:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I'm listening to 'Kind of Blue' right now while studying Python. There's something about the track 'So What' that's really captivating. The piano work by Bill Evans is beautiful.",
+      "timestamp": "2025-10-09T12:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a great combination! Music can really enhance the learning experience. Bill Evans' contribution to that album is indeed remarkable.",
+      "timestamp": "2025-10-09T13:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Python update: I learned about lists today! I created a list called 'jazz_albums' with the recommendations from Alice: ['Kind of Blue', 'A Love Supreme', 'Head Hunters', 'The Shape of Jazz to Come', 'Time Out']. Then I used a for loop to print each one.",
+      "timestamp": "2025-10-10T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Excellent progress! Lists and loops are powerful concepts. You're already applying your Python skills to organize real-world information. That's a great sign of practical learning.",
+      "timestamp": "2025-10-10T09:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Alice invited me to a Jazz concert next week! She said her friend's quartet is performing at 'The Blue Note' on October 15th. I'm really excited but also nervous - I don't know much about Jazz etiquette.",
+      "timestamp": "2025-10-11T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "What a wonderful opportunity! Jazz clubs are generally relaxed environments. Just enjoy the music, and don't worry too much about etiquette. It's more about appreciation than formal rules.",
+      "timestamp": "2025-10-11T09:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I created a Python program to help me learn about Jazz! It's a simple script that stores album information in a dictionary, including artist, year, and my personal rating. I started with the 5 albums Alice recommended.",
+      "timestamp": "2025-10-12T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a creative way to combine your new interests! Using programming to organize and explore your hobbies is one of the best ways to learn. Dictionaries are perfect for structured data like album information.",
+      "timestamp": "2025-10-12T09:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Just landed at Narita Airport! The flight was long but I'm so excited to be in Tokyo. The airport is massive and spotlessly clean. I need to find the JR Pass exchange counter to activate my pass, then catch the Narita Express to Shibuya where my hotel is. First time in Japan!",
+      "timestamp": "2025-10-17T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Welcome to Tokyo! That's exciting. The JR Pass exchange counter is usually in the arrival lobby - look for the JR East Travel Service Center signs. The Narita Express is a great choice for getting to central Tokyo. Make sure you have your passport and JR Pass exchange order ready!",
+      "timestamp": "2025-10-17T09:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Thanks! Found the counter and activated my JR Pass. The staff was so helpful despite my terrible Japanese. Now on the Narita Express heading to Shibuya Station. The train is so punctual and comfortable. Can't wait to drop my bags at the hotel and start exploring!",
+      "timestamp": "2025-10-17T10:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's great to hear! The efficiency of Japanese trains is amazing. Once you're settled in Shibuya, you should definitely check out the famous scramble crossing and maybe grab some authentic sushi for your first meal. There are some excellent conveyor belt sushi places that are both delicious and budget-friendly.",
+      "timestamp": "2025-10-17T11:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Checked into my hotel - the Sakura Hotel in Shibuya. Small room but very clean and modern. I'm starving though! Going to find that sushi place you mentioned. I've never had real Japanese sushi before, only the Americanized versions back home.",
+      "timestamp": "2025-10-17T12:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Perfect! For a first-timer, I'd recommend Sushi Zanmai near Tsukiji or if you want something closer to Shibuya, try Genki Sushi - it's a fun conveyor belt experience. Don't be afraid to try different types - salmon, tuna, and maybe some uni if you're feeling adventurous!",
+      "timestamp": "2025-10-17T13:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Just had the most incredible sushi experience at a small place called Sushi Dai in Shibuya! The chef was so friendly and helped me understand what everything was. I tried maguro (tuna), sake (salmon), and even some uni (sea urchin) - it was so fresh and melted in my mouth. Completely different from anything I've had before!",
+      "timestamp": "2025-10-17T14:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That sounds absolutely amazing! Sushi Dai is a fantastic choice. The freshness of the fish in Tokyo is unbeatable. How did you like the uni? It's definitely an acquired taste for some people but truly represents the essence of Japanese seafood cuisine.",
+      "timestamp": "2025-10-17T15:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "The uni was interesting - very rich and briny, but in a good way! I'm so full now. Going to walk around Shibuya and see the famous crossing, then maybe visit Meiji Shrine before it gets dark. This city is incredible!",
+      "timestamp": "2025-10-17T15:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Great plan! The Meiji Shrine closes around sunset, so perfect timing. The walk through the forested path to the shrine is really peaceful - such a contrast to the busy Shibuya area. Don't forget to take some photos at the crossing during rush hour - it's quite a spectacle!",
+      "timestamp": "2025-10-17T16:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Meiji Shrine was beautiful! So serene. Now I'm back at my hotel room and I can't find my passport. I'm panicking - I had it this morning at the airport and I'm pretty sure I had it when I checked into the hotel. I've turned my room upside down and it's nowhere to be found.",
+      "timestamp": "2025-10-17T18:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Oh no, that's really stressful! Try to stay calm. First, retrace your steps carefully. Did you use your passport anywhere after hotel check-in? Sometimes hotels keep passports at the front desk for check-in procedures. Also check all your bags, pockets, and any shopping bags from today.",
+      "timestamp": "2025-10-17T19:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I already checked everywhere in my room and bags. The hotel front desk says they returned it to me after check-in. I remember putting it in my jacket pocket. I went to the sushi restaurant, walked around Shibuya, visited Meiji Shrine, and took the train. It could be anywhere!",
+      "timestamp": "2025-10-17T19:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Okay, let's think systematically. First, contact the sushi restaurant - Sushi Dai - and ask if anyone turned in a passport. Then call the Meiji Shrine office and Shibuya Station lost and found. In Japan, people are very honest about returning lost items. Also, you should contact your country's embassy in Tokyo to start the replacement process.",
+      "timestamp": "2025-10-17T20:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I called Sushi Dai and they said no passport was found there. The shrine is closed now so I'll have to call tomorrow morning. Shibuya Station lost and found is also closed. I'm so worried - I have flights to catch in a week and I don't know what to do!",
+      "timestamp": "2025-10-17T20:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "I know this is really stressful, but try to stay positive. The good news is that you're in a country where lost items are often returned. Tomorrow morning, visit the nearest police station (koban) - there's usually one near major stations. File a lost item report. Also contact your embassy first thing tomorrow to start the emergency passport process, just in case.",
+      "timestamp": "2025-10-17T21:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I can't sleep. I keep thinking about where I could have lost it. Maybe it fell out of my pocket on the train or at the shrine. I feel so stupid for not being more careful. This was supposed to be an amazing vacation and now I'm stuck dealing with this bureaucratic nightmare.",
+      "timestamp": "2025-10-17T22:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "I understand how frustrating this must be, but please don't be too hard on yourself - these things happen when traveling. The important thing is that you're safe and you have options. Many travelers have lost passports and recovered them in Japan. Focus on the steps tomorrow: police station, embassy, and checking with all the places you visited today.",
+      "timestamp": "2025-10-17T23:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "You're right. I need to stay positive. I'll head to the police station first thing tomorrow, then the embassy if needed. At least I have photos of my passport on my phone and my driver's license as backup ID. The hotel staff has been really understanding too. Maybe I should still try to enjoy the rest of my trip while sorting this out.",
+      "timestamp": "2025-10-17T23:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's the right attitude! Having photos of your passport is really helpful for the embassy process. Your driver's license will work for most things within Japan. Try to enjoy some more amazing food tomorrow - maybe some ramen or tempura - while you're dealing with the passport situation. This will likely work out fine!",
+      "timestamp": "2025-10-18T00:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Thanks for all your help today. I'm feeling a bit better about the situation. I'll update you tomorrow after I visit the police station and embassy. For now, I'm going to try to get some rest. Today was still amazing despite the passport issue - that sushi was absolutely worth it!",
+      "timestamp": "2025-10-18T00:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Just landed at Heathrow. The familiar grey sky and drizzle feels... different now. I've been away for three months traveling through Southeast Asia, and everything here feels smaller somehow.",
+      "timestamp": "2025-10-27T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Welcome back to London! That's a common feeling after extended travel - reverse culture shock can be quite surprising. How does it feel to be back in familiar surroundings?",
+      "timestamp": "2025-10-27T09:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Honestly? Restless. I thought I'd be relieved to be home, but I keep comparing everything to Tokyo. The efficiency, the food, the way people move through space differently. I stayed there for six weeks and it just clicked in a way nowhere else did.",
+      "timestamp": "2025-10-27T10:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's fascinating. Tokyo has a unique rhythm that really resonates with some people. What specifically about it captured you so strongly?",
+      "timestamp": "2025-10-27T11:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Everything felt intentional. From the way convenience stores are actually convenient to how clean the streets are despite no trash cans. I found myself walking everywhere, exploring different neighborhoods each weekend. Even the language barrier felt exciting rather than frustrating.",
+      "timestamp": "2025-10-27T12:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That sense of discovery and comfort in daily life is powerful. Are you considering going back for another visit?",
+      "timestamp": "2025-10-27T13:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "More than a visit. I'm sitting here in my London flat looking at my books and thinking... I could sell most of this. I'm 34, I have remote work, and I've never felt as alive as I did in Tokyo. What if I just... moved there?",
+      "timestamp": "2025-10-27T14:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a significant decision! Moving to Japan permanently involves quite a bit of planning - visas, housing, understanding the cultural nuances long-term. What's drawing you toward making it permanent rather than extended stays?",
+      "timestamp": "2025-10-27T15:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I want roots somewhere. London has been home for a decade, but it doesn't feel like home anymore. In Tokyo, I found myself naturally falling into routines I actually enjoyed. Morning walks to the station, trying new conbini breakfasts, the way neighborhoods have distinct personalities. I felt present in a way I haven't here in years.",
+      "timestamp": "2025-10-27T16:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That sense of belonging is precious. Have you started researching the practical aspects? Japan has different visa categories depending on your work situation and qualifications.",
+      "timestamp": "2025-10-27T17:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I've been reading about the Working Holiday visa since I'm under 35, but I think I'd qualify for a work visa through my company. I'm a senior software developer and we have Japanese clients. I could probably arrange a transfer or at least keep my job remotely.",
+      "timestamp": "2025-10-27T18:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a solid foundation. The tech industry in Tokyo is quite active, and having your current role as a backup is smart. Have you thought about timing? Moving countries is a marathon, not a sprint.",
+      "timestamp": "2025-10-27T19:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I'm thinking next autumn - around October 2026. That gives me a full year to save more aggressively, improve my Japanese beyond basic phrases, and properly plan. I don't want to rush and mess it up.",
+      "timestamp": "2025-10-27T20:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a realistic timeline. A year gives you time to research neighborhoods, understand costs, and maybe visit once more to apartment hunt. What feels most daunting about the move right now?",
+      "timestamp": "2025-10-27T21:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Leaving my friends here, honestly. And the language - I can order food and ask directions, but daily life conversations are still intimidating. Also, finding housing as a foreigner seems complicated. But I keep reminding myself: people do this successfully every day.",
+      "timestamp": "2025-10-27T22:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Those are valid concerns. The expat community in Tokyo is quite supportive, and many people navigate the housing process successfully. Language will improve with immersion. What would make you feel more confident in your decision?",
+      "timestamp": "2025-10-27T23:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I think I need to visit once more with 'moving eyes' - not as a tourist but really paying attention to daily logistics. Maybe in spring, scope out neighborhoods like Shimokitazawa or Nakameguro, see what apartments actually cost, try navigating bureaucracy. Make it feel real rather than just a dream.",
+      "timestamp": "2025-10-28T00:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's an excellent approach. Visiting with intention changes everything - you start noticing things like grocery costs, commute times, neighborhood noise levels. Those practical details help clarify whether the dream matches reality.",
+      "timestamp": "2025-10-28T01:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Exactly. And if it does match up... I think I'd regret not trying more than I'd regret failing. I've played it safe in London for years, building a comfortable life that doesn't actually make me happy. That's more terrifying than moving across the world.",
+      "timestamp": "2025-10-28T02:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's powerful self-awareness. Many people never reach that clarity about what they truly want versus what's merely comfortable. Whatever you decide, you're approaching it thoughtfully. What's your first concrete step going to be?",
+      "timestamp": "2025-10-28T03:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Tomorrow I'm going to calculate exactly how much I need to save monthly to hit my target by next September. Then I'll start Japanese lessons twice a week instead of casually using apps. And I'll talk to my manager about remote work possibilities. Small steps, but they're real.",
+      "timestamp": "2025-10-28T04:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I can't believe I'm actually doing this. Tokyo. It's really happening. Alice barely said two words to me this morning. I found her sitting by the window, just staring out. When I asked if she was okay, she just nodded and said 'I'm fine' in that quiet voice that means she's anything but fine.",
+      "timestamp": "2025-11-06T08:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Started with the essentials. Two pairs of jeans, my good button-down shirt, thermal underwear since it'll be November. Alice walked in while I was folding socks and just stood there watching me. I could feel her sadness like a physical weight in the room.",
+      "timestamp": "2025-11-06T09:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "She finally spoke. 'How long will you be gone?' I told her probably three months, maybe longer depending on how the project goes. Her face just fell. I tried to explain it's a huge opportunity - the tech startup scene in Tokyo is incredible right now.",
+      "timestamp": "2025-11-06T09:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Alice asked if I'd packed the photo of us from our trip to Kyoto last year. I hadn't even thought of it. She went to get it from the living room shelf - that picture of us at Fushimi Inari, both of us grinning like idiots under all those red torii gates.",
+      "timestamp": "2025-11-06T10:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I found her crying in the kitchen. She tried to hide it, wiping her face quickly when I came in. 'I'm being silly,' she said. 'It's just... three months is so long.' I hugged her and promised I'd video call every single day.",
+      "timestamp": "2025-11-06T10:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Packing my laptop and chargers now. Alice is helping, which is making it both better and worse. She's being so sweet about it, but I can tell every item I pack feels like another step away from her.",
+      "timestamp": "2025-11-06T11:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "She just asked if I remembered our conversation about adopting a cat. We'd been talking about it for months. 'Maybe we should wait until you get back,' she said quietly. That hit me hard - she's already putting our future plans on hold.",
+      "timestamp": "2025-11-06T11:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Alice made me tea while I was packing my toiletries. We sat on the bed together, surrounded by half-packed suitcases, and she told me she's proud of me. But her voice was trembling. I hate that I'm causing her this pain.",
+      "timestamp": "2025-11-06T12:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I showed her the apartment listing my company found for me - a small place in Shibuya with a view of the crossing. She tried to sound excited, but I could see her imagining me there without her. 'It looks nice,' she said, but her smile didn't reach her eyes.",
+      "timestamp": "2025-11-06T12:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "We just had the hardest conversation. Alice asked if I'd thought about what this means for us long-term. I told her of course I have, that this job in Tokyo could set us up financially, maybe even lead to us living there together someday. She just nodded and said 'I know' but looked so uncertain.",
+      "timestamp": "2025-11-06T13:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "She's sleeping now, but I can't. I keep thinking about her face when I told her about the job offer. She tried so hard to be supportive, but I could see the fear in her eyes. What if this ruins everything we've built?",
+      "timestamp": "2025-11-06T13:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Alice woke up and found me still packing at 2 AM. She didn't say anything, just sat down and started helping me fold clothes again. We worked in silence for a while, and then she said 'I love you' so quietly I almost missed it.",
+      "timestamp": "2025-11-06T14:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I found the little origami crane she made me last week sitting on top of my passport. She's been learning Japanese crafts to surprise me. I put it in my wallet - I'll keep it with me always.",
+      "timestamp": "2025-11-06T14:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "We talked about practical things this morning. She's going to take care of paying the bills while I'm gone, and I promised to send money every month. It felt so domestic and normal, but underneath there's this current of sadness.",
+      "timestamp": "2025-11-06T15:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Alice made breakfast - my favorite, pancakes with blueberries. We ate mostly in silence, just stealing glances at each other. Every ordinary moment feels precious now, like I'm already missing her and I haven't even left yet.",
+      "timestamp": "2025-11-06T15:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "She helped me carry my suitcases to the door. Two large ones, plus my backpack. Seeing them lined up by the entrance made it all feel so real and final. Alice touched my arm and said 'You're really going,' like she was just realizing it.",
+      "timestamp": "2025-11-06T16:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "The taxi will be here in twenty minutes. Alice is trying not to cry, biting her lip and blinking hard. I want to tell her I'll stay, but I know I can't. This job could change our whole lives. But right now, all I can think about is how much I'm going to miss her.",
+      "timestamp": "2025-11-06T16:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "She gave me a letter as I was leaving. 'Don't read it until you're on the plane,' she said. I put it in my jacket pocket, right next to my heart. Her eyes were so red from crying, but she was trying to smile for me.",
+      "timestamp": "2025-11-06T17:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I'm in the taxi now, watching our apartment building get smaller in the rearview mirror. Alice is standing in the window, waving. She looks so small and alone up there. I keep touching the letter in my pocket, wondering what she wrote.",
+      "timestamp": "2025-11-06T17:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "At the airport now. I found a quiet corner and opened Alice's letter. She wrote about how proud she is of me, how she knows this is important for my career, but also how scared she is that things will change between us. She included a pressed cherry blossom petal from our first date. I'm sitting here crying in the middle of the departure lounge.",
+      "timestamp": "2025-11-06T18:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I can't believe I'm actually here in Tokyo! Just finished my first week teaching English at the elementary school in Shibuya. The kids are so energetic and keep asking me to say words in 'American English' - they think my accent is hilarious. Luna seems to be adjusting well too, she's been purring nonstop since we moved into the apartment.",
+      "timestamp": "2025-11-16T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's wonderful to hear! How are you finding the teaching experience so far? And how's Luna handling the new environment?",
+      "timestamp": "2025-11-16T09:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Teaching is more challenging than I expected but in a good way. Today I taught them 'head, shoulders, knees and toes' and they went absolutely wild. Luna is surprisingly calm - she's been exploring every corner of our tiny 20-square-meter apartment. I think she likes watching the city lights from our 8th floor window.",
+      "timestamp": "2025-11-16T10:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "A 20-square-meter apartment in Tokyo sounds cozy! What's your daily routine looking like so far?",
+      "timestamp": "2025-11-16T11:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I wake up at 6:30 AM, take the JR Yamanote Line from Shibuya Station to my school which takes about 25 minutes. Classes run from 8:30 to 3:30, then I have planning time until 5. Luna greets me at the door every evening - she's definitely happy to have me home after being alone all day.",
+      "timestamp": "2025-11-16T12:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a full schedule! How are you managing with Japanese language and daily life tasks like grocery shopping?",
+      "timestamp": "2025-11-16T13:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "My Japanese is still terrible, but I'm learning. Yesterday I went to the supermarket near Shibuya Station and accidentally bought wasabi thinking it was avocado - that was an interesting surprise! The cashier was very patient with my pointing and hand gestures. Luna doesn't care about my language skills though, she just wants her evening treats.",
+      "timestamp": "2025-11-16T14:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Haha, wasabi instead of avocado! How are you finding the cost of living compared to what you expected?",
+      "timestamp": "2025-11-16T15:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Rent is definitely high - I'm paying ¥120,000 per month for this tiny place, but it includes utilities. Groceries are reasonable though. I spent about ¥8,000 at the supermarket yesterday for a week's worth of food. Luna's cat food is more expensive here, about ¥1,500 for a bag that would cost $8 back home.",
+      "timestamp": "2025-11-16T16:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That sounds manageable. What's been your favorite moment with your students so far?",
+      "timestamp": "2025-11-16T17:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Today during break time, a group of third graders surrounded me and started teaching me Japanese words. They were giggling so hard when I tried to say 'neko' (cat) - apparently my pronunciation is terrible! I showed them a photo of Luna and they all went 'kawaii!' It made me realize how much I love teaching.",
+      "timestamp": "2025-11-16T18:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's absolutely adorable! How's Luna's health and behavior been since the move?",
+      "timestamp": "2025-11-16T19:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "She's been great! No signs of stress or anxiety. She's eating well, using her litter box normally, and seems genuinely content. I was worried the long flight might traumatize her, but she's bounced back beautifully. She's even gained a little weight - I think she likes the Japanese cat food better!",
+      "timestamp": "2025-11-16T20:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a relief! What's surprised you most about living in Tokyo?",
+      "timestamp": "2025-11-16T21:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "How incredibly clean everything is, even in busy areas like Shibuya Crossing. And how quiet people are on public transport - it's such a contrast to the crowded streets. Also, the convenience stores are amazing! I can get a decent meal for ¥500. Luna loves when I bring home those little fish treats from 7-Eleven.",
+      "timestamp": "2025-11-16T22:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "The cleanliness really is remarkable. How are you planning to spend your first weekend in Tokyo?",
+      "timestamp": "2025-11-16T23:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I'm thinking of exploring more of Shibuya, maybe visit the Meiji Shrine since it's close by. I also need to find a vet for Luna - just for a checkup to make sure she's really doing as well as she seems. And I should probably buy a proper futon since I've been sleeping on a borrowed one.",
+      "timestamp": "2025-11-17T00:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Those sound like good priorities. How's the weather been treating you?",
+      "timestamp": "2025-11-17T01:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "It's been mild, around 15-18°C during the day, perfect for exploring. The autumn leaves are beautiful! I took Luna out on the balcony yesterday (supervised of course) and she seemed fascinated by all the city sounds and smells. I'm dreading winter though - everyone says it gets quite cold and our apartment doesn't have central heating.",
+      "timestamp": "2025-11-17T02:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "You'll want to get a good space heater then! What are you most looking forward to in the coming weeks?",
+      "timestamp": "2025-11-17T03:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I'm excited to really settle into my teaching routine and build stronger relationships with my students. I also want to explore more neighborhoods - maybe visit Harajuku or Shinjuku on weekends. And I'm hoping Luna and I can establish a nice little daily rhythm together. She's been such a trooper through all this change, always purring and rubbing against my legs when I get home. It's like she knows we're on this adventure together.",
+      "timestamp": "2025-11-17T04:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I can't believe it's already November 26th, 2025. This year has absolutely flown by. Looking back, I think I need to process everything that happened.",
+      "timestamp": "2025-11-26T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "It sounds like you've had quite a year. I'm here to listen if you'd like to share your reflections.",
+      "timestamp": "2025-11-26T09:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Thanks. It's just... I spent significant time in three major cities this year, and they each left such different impressions. Paris in the spring, London in the summer, and Tokyo just last month. It feels like three different lifetimes.",
+      "timestamp": "2025-11-26T09:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a fascinating journey across three very distinct cultures. What was your overall takeaway from experiencing Paris, London, and Tokyo in such a compressed timeframe?",
+      "timestamp": "2025-11-26T10:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Well, let me start with Paris. I was there from March 15th to April 20th. The cherry blossoms along the Seine were absolutely magical. I stayed in this little Airbnb in the 5th arrondissement, right near Place Monge. The bakery on Rue Mouffetard became my daily ritual - their croissants were unlike anything I've ever tasted.",
+      "timestamp": "2025-11-26T10:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Paris in spring sounds wonderful. The 5th arrondissement is such a charming area. What made the biggest cultural impression on you there?",
+      "timestamp": "2025-11-26T11:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "The pace of life, definitely. Parisians really know how to savor moments. I remember sitting at Café de Flore for three hours one afternoon, just people-watching and writing in my journal. The waiter didn't rush me at all. But I also struggled with the language barrier - my high school French was pretty rusty.",
+      "timestamp": "2025-11-26T11:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a common experience in Paris. How did that compare to your time in London?",
+      "timestamp": "2025-11-26T12:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "London was completely different. I was there from June 1st to July 10th. The weather was surprisingly warm - I think it hit 28°C on July 4th. I stayed in Shoreditch, which felt so vibrant and creative. The Tube strikes were happening though, which made getting around a nightmare. I ended up walking everywhere and discovered so many hidden gems.",
+      "timestamp": "2025-11-26T12:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "London's public transport challenges can definitely change how you experience the city. What stood out most about the cultural atmosphere there?",
+      "timestamp": "2025-11-26T13:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "The diversity was incredible. I had authentic dim sum in Chinatown, incredible curry on Brick Lane, and traditional fish and chips at a pub in Camden. Everyone I met had such interesting stories - I met a Nigerian artist at Tate Modern who changed my perspective on contemporary art. But I have to say, London felt more expensive than Paris. A pint of beer cost me £7.50 at one place!",
+      "timestamp": "2025-11-26T13:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's quite a price difference. How did Tokyo compare to both European cities in terms of cost and overall experience?",
+      "timestamp": "2025-11-26T14:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Tokyo was... overwhelming in the best way possible. I was there from October 5th to November 2nd. The efficiency is mind-blowing - trains arrive exactly on time, every time. I stayed in an Airbnb in Shibuya, right near the famous crossing. The first time I experienced rush hour there, I felt like I was in a movie.",
+      "timestamp": "2025-11-26T14:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Shibuya Crossing is iconic. What was your biggest culture shock moment in Tokyo?",
+      "timestamp": "2025-11-26T15:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Probably the silence on public transport. Coming from London where everyone's chatting, the quiet was jarring at first. Also, the convenience stores! 7-Eleven in Tokyo is nothing like back home. I lived on their onigiri and bento boxes. And the toilets - heated seats and bidet functions everywhere. I'm going to miss that luxury.",
+      "timestamp": "2025-11-26T15:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Japanese convenience stores are truly something else. If you had to choose one city to live in long-term, which would it be and why?",
+      "timestamp": "2025-11-26T16:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "That's tough. Paris felt romantic but challenging with the language. London was exciting but exhausting - always something happening. Tokyo was incredibly comfortable once I got used to it, but I felt like such an obvious outsider. I think if I had to choose right now, I'd pick Tokyo for the quality of life, but Paris for the soul.",
+      "timestamp": "2025-11-26T16:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's a beautiful way to put it. What lessons are you taking away from this year of travel?",
+      "timestamp": "2025-11-26T17:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I learned that I'm more adaptable than I thought. I also realized how much I value efficiency and respect for personal space - Tokyo really spoiled me in that regard. But I also discovered that I need creative energy in my life, which London provided in spades. Most importantly, I learned that every city has its own rhythm, and the key is finding how to dance to it.",
+      "timestamp": "2025-11-26T17:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's profound insight. As 2025 comes to a close, do you have any plans to build on these experiences?",
+      "timestamp": "2025-11-26T18:20:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I can't believe it's finally happening! I'm adopting Hachi tomorrow. I've been preparing for weeks - got the crate, food bowls, toys, everything. I'm so nervous but excited!",
+      "timestamp": "2025-12-06T08:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's wonderful! Adopting a dog is such a meaningful decision. How old is Hachi and what breed?",
+      "timestamp": "2025-12-06T09:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "He's a 3-year-old golden retriever mix. The shelter says he's really sweet but a bit anxious. I picked up his favorite treats today - chicken jerky from PetSmart. I want everything to be perfect for him.",
+      "timestamp": "2025-12-06T10:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Golden retrievers are such loving dogs. The anxiety is common in shelter dogs - patience and routine will help. Have you puppy-proofed your home?",
+      "timestamp": "2025-12-06T11:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Yes! I moved all my plants to higher shelves and put away anything chewable. I even bought baby gates for the kitchen and stairs. My friend Sarah is coming with me tomorrow to pick him up - she's been through this before.",
+      "timestamp": "2025-12-06T12:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Having a friend there is smart. What time is the adoption appointment?",
+      "timestamp": "2025-12-06T13:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "10 AM at the Riverside Animal Shelter. I need to bring my ID, proof of address, and the adoption fee is $150. I already filled out the application online last week.",
+      "timestamp": "2025-12-06T14:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Sounds like you're well prepared! What's your plan for the first few days with Hachi?",
+      "timestamp": "2025-12-06T15:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I took Monday and Tuesday off work so we can bond. I want to establish a routine right away - morning walk at 7 AM, feeding at 8 AM and 6 PM. I also scheduled a vet checkup for Wednesday at 2 PM with Dr. Martinez.",
+      "timestamp": "2025-12-06T16:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's excellent planning. Consistency will really help Hachi feel secure. What made you choose the name Hachi?",
+      "timestamp": "2025-12-06T17:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "I've always loved the story of Hachiko, the loyal dog from Japan. Plus, the shelter said he responds well to it already. I hope he likes his new home. I'm worried I might forget something important.",
+      "timestamp": "2025-12-06T18:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "You seem very prepared! What's the one thing you're most nervous about?",
+      "timestamp": "2025-12-06T19:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Probably the first night. I set up his crate in my bedroom with a comfy bed and his favorite toy from the shelter. But what if he cries all night? My neighbor Mrs. Peterson is 75 and I don't want to disturb her.",
+      "timestamp": "2025-12-06T20:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That's considerate of you. Many dogs adjust quickly when they feel safe. Have you thought about a white noise machine?",
+      "timestamp": "2025-12-06T21:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "That's a great idea! I'll download a white noise app on my phone. I also bought this calming pheromone spray that the pet store recommended. I hope it helps with his anxiety.",
+      "timestamp": "2025-12-06T22:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "Those can be really effective. What's Hachi's exercise routine going to look like?",
+      "timestamp": "2025-12-06T23:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "The shelter said he needs about an hour of exercise daily. I'm planning morning walks around the neighborhood park, and evening playtime in my backyard. I live near Oakridge Park which has a dog run - maybe we'll try that after he's settled in.",
+      "timestamp": "2025-12-07T00:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "That sounds perfect for a golden retriever. They really thrive with that much activity. How are you feeling now compared to when we started talking?",
+      "timestamp": "2025-12-07T01:50:35.925670"
+    },
+    {
+      "speaker": "User",
+      "content": "Much better actually! I think I have everything covered. I just packed a blanket and treats for the car ride home tomorrow. Sarah will meet me at my house at 9:30 AM and we'll drive together.",
+      "timestamp": "2025-12-07T02:50:35.925670"
+    },
+    {
+      "speaker": "AI",
+      "content": "You're going to be a wonderful dog parent. Hachi is lucky to have someone so thoughtful. Enjoy this special day tomorrow!",
+      "timestamp": "2025-12-07T03:50:35.925670"
+    }
+  ],
+  "test_set": [
+    {
+      "question": "What is the user's full address in Paris?",
+      "ground_truth": "Rue de la Montagne Sainte-Geneviève in the 5th arrondissement",
+      "type": "factual"
+    },
+    {
+      "question": "What happened first on September 7th: the user started over their painting, or the tourist rush at Café de Flore?",
+      "ground_truth": "The user started over their painting in the morning before work, which happened before the tourist rush around 10 AM",
+      "type": "temporal"
+    },
+    {
+      "question": "Why did the user have to clean cadmium red from the floor for an hour?",
+      "ground_truth": "Because Luna knocked over the watercolor palette while the user was painting the Seine from the balcony",
+      "type": "reasoning"
+    },
+    {
+      "question": "When did Monsieur Dubois first move to Paris?",
+      "ground_truth": "1978",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the user's previous workplace and their current one in terms of location and benefits?",
+      "ground_truth": "The user previously worked at a smaller café in Montmartre, but now works at Café de Flore in Saint-Germain because the tips are better and they can walk to work in 20 minutes from their apartment",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the user's monthly rent budget for their London relocation?",
+      "ground_truth": "£1,500 per month",
+      "type": "factual"
+    },
+    {
+      "question": "When does the user plan to start listing their furniture for sale, and what is their current apartment vacate deadline?",
+      "ground_truth": "They plan to start listings around October 1st and need to vacate by October 31st",
+      "type": "temporal"
+    },
+    {
+      "question": "Why is the user considering Shoreditch over Wimbledon despite potential budget concerns?",
+      "ground_truth": "Because their office is near Liverpool Street station and Shoreditch would be perfect for walking to work, prioritizing location convenience over living space",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the dimensions of the user's desk and how long have they owned their IKEA Malm bed frame and mattress?",
+      "ground_truth": "The desk is 160cm wide by 80cm deep, and the IKEA Malm bed frame and mattress are 2 years old",
+      "type": "factual"
+    },
+    {
+      "question": "What backup accommodation option did the user mention if they sell their bed before the move?",
+      "ground_truth": "Staying with their sister in Birmingham for a few days",
+      "type": "factual"
+    },
+    {
+      "question": "What is the name and phone number of the veterinary clinic recommended to the user?",
+      "ground_truth": "The London Cat Clinic, 020 7359 6969",
+      "type": "factual"
+    },
+    {
+      "question": "What was the diagnosis for Luna's illness and how much did the treatment cost?",
+      "ground_truth": "Luna had a bacterial infection, probably from stress weakening her immune system. The treatment cost £180.",
+      "type": "factual"
+    },
+    {
+      "question": "When did the user first notice Luna was sick, and when did they take her to the vet?",
+      "ground_truth": "The user first noticed Luna was sick on Day 3 (2025-09-28) when she threw up and seemed lethargic. They took her to the vet the same day after contacting the clinic.",
+      "type": "temporal"
+    },
+    {
+      "question": "What happened before the user bought an umbrella, and what was the immediate consequence?",
+      "ground_truth": "Before buying an umbrella, the user's old one broke on the way to the grocery store. The immediate consequence was they had to buy a new umbrella.",
+      "type": "temporal"
+    },
+    {
+      "question": "Why did Luna likely get a bacterial infection according to the vet?",
+      "ground_truth": "According to the vet, Luna likely got a bacterial infection because the stress from travel and relocation weakened her immune system, making her more susceptible to illness.",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the name of the coffee shop where the user met Alice?",
+      "ground_truth": "The coffee shop is not named in the dialogue.",
+      "type": "factual"
+    },
+    {
+      "question": "What happened first: the user writing their first Python program or meeting Alice?",
+      "ground_truth": "The user wrote their first Python program first, on October 7th. They met Alice the next day, on October 8th.",
+      "type": "temporal"
+    },
+    {
+      "question": "Why did the user create a Python list called 'jazz_albums'?",
+      "ground_truth": "The user created the list to store and organize the five album recommendations they received from Alice.",
+      "type": "reasoning"
+    },
+    {
+      "question": "What specific track from 'Kind of Blue' did the user mention listening to, and who was the pianist they praised?",
+      "ground_truth": "The user mentioned the track 'So What' and praised the piano work of Bill Evans.",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the conversation, what is the user's 'favorite_number' and what programming concept were they learning when they created that variable?",
+      "ground_truth": "The user's 'favorite_number' is 7, and they created it while learning about variables and data types.",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the name of the hotel where the user is staying in Shibuya?",
+      "ground_truth": "Sakura Hotel",
+      "type": "factual"
+    },
+    {
+      "question": "What type of sushi did the user try for the first time at Sushi Dai?",
+      "ground_truth": "Uni (sea urchin)",
+      "type": "factual"
+    },
+    {
+      "question": "What did the user do immediately after checking into the hotel?",
+      "ground_truth": "Went to find a sushi restaurant because they were starving",
+      "type": "temporal"
+    },
+    {
+      "question": "Why did the AI suggest the user visit Meiji Shrine before it got dark?",
+      "ground_truth": "Because the Meiji Shrine closes around sunset",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the user's last known location with their passport before they realized it was missing?",
+      "ground_truth": "The hotel front desk, where they received it back after check-in and put it in their jacket pocket",
+      "type": "temporal"
+    },
+    {
+      "question": "What specific visa options is the user considering for moving to Japan?",
+      "ground_truth": "The user is considering the Working Holiday visa (since they're under 35) and a work visa through their company as a senior software developer with Japanese clients.",
+      "type": "factual"
+    },
+    {
+      "question": "When did the user return to London from their Southeast Asia trip?",
+      "ground_truth": "The user returned to London on October 27, 2025, having been away for three months traveling through Southeast Asia.",
+      "type": "temporal"
+    },
+    {
+      "question": "What happened first - the user's passport issue or their extended stay in Tokyo?",
+      "ground_truth": "The passport issue happened first on October 18, 2025, which was during their travels. Their six-week stay in Tokyo occurred during their three-month Southeast Asia trip, before returning to London on October 27, 2025.",
+      "type": "temporal"
+    },
+    {
+      "question": "Why does the user feel that London no longer feels like home, despite living there for a decade?",
+      "ground_truth": "The user feels London no longer feels like home because after experiencing Tokyo, they found themselves naturally falling into routines they actually enjoyed, feeling present in a way they haven't in London for years. London feels smaller and less engaging compared to the intentional lifestyle and sense of belonging they experienced in Tokyo.",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the user's planned timeline for moving to Tokyo and why did they choose that specific timing?",
+      "ground_truth": "The user is planning to move around October 2026 (next autumn). They chose this timeline to give themselves a full year to save more aggressively, improve their Japanese beyond basic phrases, and properly plan without rushing and potentially messing it up.",
+      "type": "temporal"
+    },
+    {
+      "question": "What specific steps did the user plan to take regarding their Tokyo opportunity, and what was the timeline for their savings target?",
+      "ground_truth": "The user planned to: 1) Calculate exactly how much they need to save monthly to hit their target by next September, 2) Start Japanese lessons twice a week instead of casually using apps, and 3) Talk to their manager about remote work possibilities. Their savings target deadline was September.",
+      "type": "factual"
+    },
+    {
+      "question": "What happened first - Alice asking about adopting a cat, or the user showing Alice the apartment listing in Shibuya?",
+      "ground_truth": "Alice asking about adopting a cat happened first. This occurred at 11:50 AM when she suggested they should wait until he gets back. The apartment listing conversation happened later at 12:50 PM when the user showed her the Shibuya apartment with a view of the crossing.",
+      "type": "temporal"
+    },
+    {
+      "question": "What was the significance of the photo from Kyoto, and where was it located in their home?",
+      "ground_truth": "The photo was from their trip to Kyoto the previous year, showing both of them at Fushimi Inari grinning under the red torii gates. Alice had to retrieve it from the living room shelf when she realized the user hadn't packed it.",
+      "type": "factual"
+    },
+    {
+      "question": "Why did Alice suggest putting their cat adoption plans on hold, and what does this decision reveal about her emotional state regarding the Tokyo move?",
+      "ground_truth": "Alice suggested waiting to adopt a cat until the user returns from Tokyo because she's already putting their future plans on hold due to the uncertainty and distance created by the three-month separation. This reveals that she sees the Tokyo trip as disrupting their shared life and joint plans, indicating her anxiety about maintaining their relationship during the separation.",
+      "type": "reasoning"
+    },
+    {
+      "question": "What sequence of emotional interactions occurred between Alice and the user from the morning when she was quiet by the window through their late-night packing session?",
+      "ground_truth": "The sequence was: 1) Morning - Alice was quiet and withdrawn by the window, 2) She watched sadly as he packed socks, 3) She asked how long he'd be gone and was upset about the three-month separation, 4) She retrieved their Kyoto photo, 5) She was found crying in the kitchen, 6) She helped pack while being sweet but sad, 7) She suggested postponing cat adoption, 8) She made tea and expressed pride but with trembling voice, 9) She reacted sadly to the Shibuya apartment listing, 10) They had a difficult conversation about their long-term future, 11) She found him packing at 2 AM and helped while quietly saying 'I love you'.",
+      "type": "temporal"
+    },
+    {
+      "question": "What did Alice include in her letter besides her written message?",
+      "ground_truth": "A pressed cherry blossom petal from their first date",
+      "type": "factual"
+    },
+    {
+      "question": "What happened first - the user opening Alice's letter or arriving at the airport?",
+      "ground_truth": "Arriving at the airport happened first, then the user opened the letter",
+      "type": "temporal"
+    },
+    {
+      "question": "How much does the user pay per month for rent in Tokyo and what does it include?",
+      "ground_truth": "¥120,000 per month, and it includes utilities",
+      "type": "factual"
+    },
+    {
+      "question": "Why did the third graders giggle when the user said 'neko'?",
+      "ground_truth": "Because the user's pronunciation of the Japanese word for cat was terrible",
+      "type": "reasoning"
+    },
+    {
+      "question": "What time does the user wake up and how long does their commute take?",
+      "ground_truth": "Wakes up at 6:30 AM and the commute takes about 25 minutes on the JR Yamanote Line",
+      "type": "factual"
+    },
+    {
+      "question": "What was the exact date range the user spent in Paris, and what specific location did they stay at?",
+      "ground_truth": "The user was in Paris from March 15th to April 20th, 2025, staying in an Airbnb in the 5th arrondissement near Place Monge.",
+      "type": "factual"
+    },
+    {
+      "question": "What happened first: the user's balcony experience with Luna, or their arrival in Tokyo?",
+      "ground_truth": "The balcony experience with Luna happened first (mentioned on November 17th), while Tokyo was described as occurring 'just last month' from the perspective of November 26th.",
+      "type": "temporal"
+    },
+    {
+      "question": "What was the weather temperature mentioned for London on July 4th, 2025?",
+      "ground_truth": "The weather in London hit 28°C on July 4th, 2025.",
+      "type": "factual"
+    },
+    {
+      "question": "Why did the user end up walking everywhere in London instead of using public transport?",
+      "ground_truth": "Because there were Tube strikes happening during their visit, which made getting around a nightmare.",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the user's daily ritual in Paris and what made it special?",
+      "ground_truth": "Their daily ritual was visiting a bakery on Rue Mouffetard, which was special because the croissants were unlike anything they had ever tasted.",
+      "type": "factual"
+    },
+    {
+      "question": "What time is Hachi's adoption appointment and what documents does the user need to bring?",
+      "ground_truth": "The adoption appointment is at 10 AM at Riverside Animal Shelter. The user needs to bring ID, proof of address, and $150 adoption fee.",
+      "type": "factual"
+    },
+    {
+      "question": "What did the user learn about themselves from their year of travel, specifically regarding Tokyo and London?",
+      "ground_truth": "They learned they're more adaptable than they thought, value efficiency and respect for personal space (which Tokyo provided), and discovered they need creative energy in their life (which London provided).",
+      "type": "factual"
+    },
+    {
+      "question": "What preparations did the user make before adopting Hachi, and who accompanied them to the shelter?",
+      "ground_truth": "They got a crate, food bowls, toys, chicken jerky treats, moved plants to higher shelves, put away chewable items, bought baby gates for kitchen and stairs, filled out an online application, and their friend Sarah accompanied them to pick up Hachi.",
+      "type": "factual"
+    },
+    {
+      "question": "What is Hachi's planned daily routine, including feeding times, walk times, and exercise schedule?",
+      "ground_truth": "Morning walk at 7 AM, feeding at 8 AM and 6 PM, about one hour of daily exercise including morning walks around the neighborhood park and evening playtime in the backyard, with potential visits to Oakridge Park dog run after settling in.",
+      "type": "factual"
+    },
+    {
+      "question": "Why did the user choose the name Hachi, and what concerns do they have about the first night?",
+      "ground_truth": "They chose Hachi because they love the story of Hachiko (the loyal dog from Japan) and the shelter said he already responds well to that name. They're concerned Hachi might cry all night and disturb their 75-year-old neighbor Mrs. Peterson.",
+      "type": "reasoning"
+    },
+    {
+      "question": "Where did the user live first?",
+      "ground_truth": "Paris",
+      "type": "temporal"
+    },
+    {
+      "question": "Where does the user live now?",
+      "ground_truth": "Tokyo",
+      "type": "temporal"
+    },
+    {
+      "question": "What is the cat's name?",
+      "ground_truth": "Luna",
+      "type": "factual"
+    },
+    {
+      "question": "Who is Alice?",
+      "ground_truth": "A friend the user met in London who likes Jazz.",
+      "type": "factual"
+    },
+    {
+      "question": "Why did the user move to London?",
+      "ground_truth": "Got a job offer.",
+      "type": "reasoning"
+    }
+  ]
+}

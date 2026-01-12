@@ -1,0 +1,654 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "User_0"
+    },
+    {
+      "id": "Paris"
+    },
+    {
+      "id": "Berlin"
+    },
+    {
+      "id": "Tokyo"
+    },
+    {
+      "id": "User_1"
+    },
+    {
+      "id": "London"
+    },
+    {
+      "id": "User_2"
+    },
+    {
+      "id": "User_3"
+    },
+    {
+      "id": "User_4"
+    },
+    {
+      "id": "New York"
+    },
+    {
+      "id": "User_5"
+    },
+    {
+      "id": "User_6"
+    },
+    {
+      "id": "User_7"
+    },
+    {
+      "id": "User_8"
+    },
+    {
+      "id": "User_9"
+    }
+  ],
+  "edges": [
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        100.0,
+        300.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_0",
+      "target": "Paris",
+      "key": "6e978c70-b744-4a98-b117-207be2597e9d"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        300.0,
+        500.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_0",
+      "target": "Berlin",
+      "key": "826fb5e7-b9f2-4055-a157-d031aec82ccc"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        500.0,
+        Infinity
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "active",
+      "attributes": {},
+      "source": "User_0",
+      "target": "Tokyo",
+      "key": "305201e9-7ced-401b-8807-9307840e2835"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        100.0,
+        300.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_1",
+      "target": "Tokyo",
+      "key": "76b8ea2c-1944-4a04-87b3-e5bf64fea347"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        300.0,
+        500.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_1",
+      "target": "London",
+      "key": "3b1d142d-e46d-4258-a5a9-7bb569ad452e"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        500.0,
+        Infinity
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "active",
+      "attributes": {},
+      "source": "User_1",
+      "target": "Paris",
+      "key": "da8133ef-dcb0-4161-ad27-c14ecd58073f"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        100.0,
+        300.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_2",
+      "target": "London",
+      "key": "ad4be538-b88a-4ba2-9d97-17ab0373b97a"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        300.0,
+        500.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_2",
+      "target": "Paris",
+      "key": "dae43365-d863-4f17-a317-29785d46a9bc"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        500.0,
+        Infinity
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "active",
+      "attributes": {},
+      "source": "User_2",
+      "target": "Tokyo",
+      "key": "3a682cbc-9d6c-4cf4-82e3-0043ec841820"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        100.0,
+        300.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_3",
+      "target": "Berlin",
+      "key": "5ca4be5c-3b01-45be-929d-0747f32bc414"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        300.0,
+        500.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_3",
+      "target": "Paris",
+      "key": "286cbb13-b7d8-4647-99cf-c3977f683217"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        500.0,
+        Infinity
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "active",
+      "attributes": {},
+      "source": "User_3",
+      "target": "Tokyo",
+      "key": "aedada27-d259-49ec-9f1e-9be29a0c1c5d"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        100.0,
+        300.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_4",
+      "target": "New York",
+      "key": "78c40ce9-f3b5-4192-b091-bfa33962d74d"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        300.0,
+        500.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_4",
+      "target": "Paris",
+      "key": "03a06f13-6536-4e3a-adc3-cdfe4f38913b"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        500.0,
+        Infinity
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "active",
+      "attributes": {},
+      "source": "User_4",
+      "target": "Berlin",
+      "key": "b698f5d9-48d0-4da1-8dfd-f4b52ddfbc3d"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        100.0,
+        300.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_5",
+      "target": "Paris",
+      "key": "192b8df3-f228-4d6e-b9f0-cd523e063369"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        300.0,
+        500.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_5",
+      "target": "London",
+      "key": "f5278456-a77b-4a00-9c68-a7f4319b141e"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        500.0,
+        Infinity
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "active",
+      "attributes": {},
+      "source": "User_5",
+      "target": "Berlin",
+      "key": "33b98ed3-96e8-4508-ad74-ea3e3e23f978"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        100.0,
+        300.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_6",
+      "target": "Berlin",
+      "key": "633b9762-f0cc-4eab-897a-44fd94a0eea7"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        300.0,
+        500.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_6",
+      "target": "Paris",
+      "key": "ba7c132f-a561-47a7-9ff5-07f72aad71ec"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        500.0,
+        Infinity
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "active",
+      "attributes": {},
+      "source": "User_6",
+      "target": "Tokyo",
+      "key": "37f2b560-cc93-4751-9066-c89619e3966d"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        100.0,
+        300.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_7",
+      "target": "London",
+      "key": "a1aaf745-1592-40a6-883e-658050d2a1c4"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        300.0,
+        500.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_7",
+      "target": "New York",
+      "key": "391cb623-fb0c-4d00-9cdf-a8469fed6fde"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        500.0,
+        Infinity
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "active",
+      "attributes": {},
+      "source": "User_7",
+      "target": "Paris",
+      "key": "89c8d2ec-d445-4707-a5b2-52ec686198a5"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        100.0,
+        300.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_8",
+      "target": "New York",
+      "key": "09f02407-6eac-4eb4-b20c-c2630c8d7231"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        300.0,
+        500.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_8",
+      "target": "Tokyo",
+      "key": "c26685a9-20aa-4711-ae7e-f24e4471b254"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        500.0,
+        Infinity
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "active",
+      "attributes": {},
+      "source": "User_8",
+      "target": "Paris",
+      "key": "a3fbba89-91f1-410f-aa66-a04f02e0fbc7"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        100.0,
+        300.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_9",
+      "target": "London",
+      "key": "b73015dd-1482-4d14-bf4e-b509034de0a6"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        300.0,
+        500.0
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "User_9",
+      "target": "New York",
+      "key": "6cd82633-d1a3-4642-803c-3e050abb1555"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        500.0,
+        Infinity
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "active",
+      "attributes": {},
+      "source": "User_9",
+      "target": "Berlin",
+      "key": "c056651c-4705-4d57-a7c8-98b53c4ac532"
+    }
+  ]
+}

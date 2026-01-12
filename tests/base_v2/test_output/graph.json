@@ -1,0 +1,178 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "Alice"
+    },
+    {
+      "id": "Paris"
+    },
+    {
+      "id": "London"
+    }
+  ],
+  "edges": [
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        1768119049.633611,
+        1768119055.54432
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "Alice",
+      "target": "Paris",
+      "key": "6c70634b-8489-4c36-9551-e880c0e48ac6"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        1768119486.8789947,
+        1768119492.582615
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "Alice",
+      "target": "Paris",
+      "key": "2a3ddf23-b152-4b94-94a2-cae82cfd22c2"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        1768120494.5461786,
+        1768120499.4654531
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "Alice",
+      "target": "Paris",
+      "key": "c8fe5113-ec24-4757-8153-532ac83c06c8"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        1768126127.969318,
+        1768126133.7614255
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "Alice",
+      "target": "Paris",
+      "key": "e68eeb43-1c3d-4e67-8384-0562d0bf4e3b"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        1768119055.54432,
+        1768119486.8789947
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "Alice",
+      "target": "London",
+      "key": "d3e1b40a-b127-429b-a85e-db2ed91df524"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        1768119492.582615,
+        1768120494.5461786
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "Alice",
+      "target": "London",
+      "key": "13816ca3-e1c3-495c-9f96-3eddf3f2dffb"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        1768120499.4654531,
+        1768126127.969318
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "archived",
+      "attributes": {},
+      "source": "Alice",
+      "target": "London",
+      "key": "3e6b7052-46e1-49e4-82a5-4844ee74ae4c"
+    },
+    {
+      "relation": "lives_in",
+      "weight": 1.0,
+      "system_window": [
+        1768126133.7614255,
+        Infinity
+      ],
+      "semantic_time": {
+        "time_type": "unknown",
+        "time_str": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "confidence": 0.5,
+      "status": "active",
+      "attributes": {},
+      "source": "Alice",
+      "target": "London",
+      "key": "8acf0b52-5ac7-4fe1-8960-82c3774c26e3"
+    }
+  ]
+}
