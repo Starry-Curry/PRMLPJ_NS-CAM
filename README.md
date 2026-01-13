@@ -91,7 +91,7 @@ To run the evaluation pipeline on a sample conversation:
 python tests/base_v2/test_run_locomo_eval.py
 ```
 
-Results will be saved to `results/locomo_eval/`.(the results out put: `~\results\locomo_eval\eval_result.json`)
+Results will be saved to `results/locomo_eval/`.(the results out put: `~\results\eval_result.json`)
 
 ## 🛠️ Usage Example
 
